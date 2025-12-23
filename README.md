@@ -1,16 +1,16 @@
-## Hi there 👋
+# Napat-Worakampon
+## 👋 About Me
+นิสิตสาขา วิทยากการและเทคโนโลยีดิจิทัล
+สนใจด้านการพัฒนาเว็บและการเขียนโปรแกรม
 
-<!--
-**Napat1091/Napat1091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills
+- Python
+- PHP
+- HTML, CSS, JavaScript
+- MySQL
 
-Here are some ideas to get you started:
+## 📂 Projects
+- Car Service Booking System
+- Inventory Management System
+- AI Vegetable Disease Detection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
